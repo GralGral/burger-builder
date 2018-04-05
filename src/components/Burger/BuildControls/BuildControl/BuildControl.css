@@ -36,6 +36,12 @@
     width: 80px;
 }
 
+.quantity {
+    font-weight: bold;
+    padding: 0 5px;
+    width: 10px;
+}
+
 .buildControl .less {
     background-color: #D39952;
     color: white;
